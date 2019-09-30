@@ -1,2 +1,3 @@
-# receitas
+# Documentação
+
 projeto de receitas
